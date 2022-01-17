@@ -38,7 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    
+    #apps
     'watchlist.apps.WatchlistConfig'
+    
+    #thirdparty
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
