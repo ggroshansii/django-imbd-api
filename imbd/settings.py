@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     #apps
-    'watchlist.apps.WatchlistConfig'
+    'watchlist.apps.WatchlistConfig',
     
     #thirdparty
     'rest_framework'
