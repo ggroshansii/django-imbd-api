@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     
     #apps
     'watchlist.apps.WatchlistConfig',
+    'api.apps.ApiConfig',
     
     #thirdparty
     'rest_framework'
